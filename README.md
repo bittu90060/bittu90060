@@ -29,4 +29,4 @@ https://project-phase-7.onrender.com/listings
 
 GitHub: https://github.com/bittu90060
 
-LinkedIn: Add Your LinkedIn Profile Link Here
+LinkedIn: https://www.linkedin.com/in/bittu-kumar-19856727b/
