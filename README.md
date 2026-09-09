@@ -120,9 +120,10 @@ https://project-phase-7.onrender.com/listings
 
 ## 📊 GitHub Stats
 
-![Bittu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bittu90060&show_icons=true&theme=tokyonight) 
+![Bittu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bittu90060&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bittu90060&layout=compact&theme=tokyonight)
+
 ---
 
 ## 🔥 GitHub Streak
